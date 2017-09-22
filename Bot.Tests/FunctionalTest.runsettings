@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <!-- update these with your values for local dev testing. In VSTS these will come from Env Variables -->
+    <Parameter name="MicrosoftAppId" value="d800cac6-78f2-4319-9503-f0033d119741" />
+    <Parameter name="DirectLineToken" value="OAP9jxCcQkA.cwA.Mmk.QXdnkdYRPyOdmV3wj4wUBUS8Rvwt0rLgXQ4vnR57fX0" />
+    <Parameter name="BotId" value="ThirusHelloWorldBot" />
+    <Parameter name="TfsUrl" value="https://thiruvsts.visualstudio.com/defaultcollection" />
+    <Parameter name="TfsProjectName" value="dev" />
+    <Parameter name="TfsUserId" value="thiruvsts" />
+    <Parameter name="TfsUserPwd" value="P@ssw0rd1!" />
+  </TestRunParameters>
+</RunSettings>
