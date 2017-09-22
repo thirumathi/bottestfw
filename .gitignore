@@ -3,3 +3,7 @@
 ################################################################################
 
 /packages
+/Bot.Tests/bin/Debug
+/Bot.Tests/obj/Debug
+/HelloWorldBot/bin
+/HelloWorldBot/obj/Debug
